@@ -83,7 +83,7 @@ export default class App extends Component {
               <View style={styles.sectionContainer}>
                 <Text style={styles.sectionTitle}>Step One</Text>
                 <Text style={styles.sectionDescription}>
-                  This text was changed!
+                  Well are you okay 2!
                 </Text>
               </View>
               <LearnMoreLinks />
